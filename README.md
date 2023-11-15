@@ -10,5 +10,7 @@ It is the semester project for computer architecture and organization and operat
 3. Run MSI Cache Simulator file
 4. Generate the output
 ## Output
-![WhatsApp Image 2023-11-15 at 14 55 22_1836d808](https://github.com/thoratamey/Mutli_Level_MSI_Cache_Simulator/assets/88768050/34136f4b-324d-431a-8cba-61772c54b3cc)
-![WhatsApp Image 2023-11-15 at 14 55 22_44915761](https://github.com/thoratamey/Mutli_Level_MSI_Cache_Simulator/assets/88768050/11bddfb5-1e61-4568-b44f-acc187368349)
+![WhatsApp Image 2023-11-15 at 14 55 22_9a1fdbf5](https://github.com/thoratamey/Mutli_Level_MSI_Cache_Simulator/assets/88768050/20a14317-e767-4e04-95f4-af629a53da9e)
+![WhatsApp Image 2023-11-15 at 14 55 22_aaab5ef7](https://github.com/thoratamey/Mutli_Level_MSI_Cache_Simulator/assets/88768050/6134816c-af70-4404-a43c-cb58157d48c8)
+
+
